@@ -20,9 +20,4 @@ public class MessageServiceImpl implements MessageService {
         }
         return messageService;
     }
-
-    @Override
-    public void startChat() {
-
-    }
 }
